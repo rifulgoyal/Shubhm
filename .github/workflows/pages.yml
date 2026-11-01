@@ -2,7 +2,7 @@ name: Publish birthday website
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
